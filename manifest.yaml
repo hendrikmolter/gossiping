@@ -1,0 +1,22 @@
+specVersion: "1"
+id: lax-630294
+leanVersion: "v4.33.0"
+mathlibVersion: "db584cd6d46c92f209a44c0f1c829460d327499d"
+title: "Gossiping and the Characterization by T-Graphs and M-Graphs"
+authors:
+  - name: Ralf Klasing
+    orcid: "0009-0004-9421-8525"
+  - name: George B. Mertzios
+    orcid: "0000-0001-7182-585X"
+  - name: Hendrik Molter
+    orcid: "0000-0002-4590-798X"
+    github: hendrikmolter
+  - name: Nils Morawietz
+    orcid: "0000-0002-7283-4982"
+  - name: Paul G. Spirakis
+    orcid: "0000-0001-5396-3749"
+  - name: Claude Code
+bibEntries: []
+paper:
+  folder: "paper"
+  main: "characterization.tex"

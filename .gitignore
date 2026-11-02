@@ -1,0 +1,16 @@
+build-output.json
+paper.pdf
+paper-web.tar
+lake-manifest.json
+.lake/
+paper/*.aux
+paper/*.bbl
+paper/*.blg
+paper/*.log
+paper/*.out
+paper/*.fls
+paper/*.fdb_latexmk
+paper/*.synctex.gz
+paper/*.vtc
+paper/*.toc
+paper/characterization.pdf
