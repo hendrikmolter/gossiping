@@ -20,3 +20,6 @@ bibEntries: []
 paper:
   folder: "paper"
   main: "characterization.tex"
+issue:
+  repositoryId: 1320232165
+  number: 211
